@@ -781,7 +781,7 @@ mark, .mark {
 }
 
 .gallery__overlay {
-    background-color: rgba(240, 84, 44, .8);
+    background-color: #5da4f0;
     width: 0;
     right: 0;
     bottom: 0;
