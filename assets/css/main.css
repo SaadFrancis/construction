@@ -2395,7 +2395,7 @@ mark, .mark {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(240, 84, 44, .9);
+    background-color: #5da4f0;
     visibility: hidden;
     opacity: 0;
     transition: all .3s ease;
@@ -2432,6 +2432,7 @@ mark, .mark {
 }
 
 .sec-title__title {
+    z-index: 1;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -2439,6 +2440,7 @@ mark, .mark {
 }
 
 .sec-title__title span {
+    z-index: 1;
     color: #5da4f0;
 }
 
